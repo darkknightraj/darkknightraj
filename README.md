@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkknightraj&label=Profile%20views&color=0e75b6&style=flat" alt="darkknightraj" /> </p>
 
-- 🔭 I’m currently working on **Spring Boot**
+- 🔭 I’m currently working on **Deep Learning**
 
-- 🌱 I’m currently learning **DSA,Spring Boot**
+- 🌱 I’m currently learning **DSA, Machine Learning**
 
 - 👨‍💻 All of my projects are available at(https://darkknightraj.github.io/rajan_kumar_portfolio/)
 
